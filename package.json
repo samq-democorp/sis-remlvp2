@@ -16,11 +16,11 @@
     "if-env": "^1.0.4",
     "lerna": "^6.5.1",
     "lint-staged": "^13.1.2",
-    "nx": "15.9.2",
+    "nx": "15.9.4",
     "prettier": "^2.8.1"
   },
   "dependencies": {
-    "vm2": "3.9.18",
+    "vm2": "3.9.19",
     "handlebars": "4.7.7",
     "moment": "^2.29.4",
 	"lodash": "4.17.21"
